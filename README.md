@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anirban</h1>
-<h3 align="center">Full Stack Developer</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+a+Developer;I+am+a+Student;I+am+a+Programmer)](https://git.io/typing-svg)
 
 - 🌱 I’m currently learning **MERN**
 
